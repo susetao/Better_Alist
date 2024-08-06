@@ -1,9 +1,7 @@
 # Better_Alist  
 
 * 半透明化目录背景  
-
 * 随机旅行背景图  
-
 * 添加回到顶部猫猫  
 
 ## 使用方法  
@@ -32,14 +30,5 @@
         <div id="jsi-flying-fish-container" class="fish-container"></div>
         <script src='https://cdn.jsdelivr.net/gh/susetao/Better_Alist@main/fish.js'></script>
         ```
-
-## 效果图  
-* 亮色主题
-![light-20240425181503](https://github.com/susetao/Better_Alist/assets/109069769/6c5a7317-df58-4bc8-b469-92c8e664754b)
-
-* 暗色主题
-![dark-20240425181503](https://github.com/susetao/Better_Alist/assets/109069769/24f1a8ad-76b5-4f19-8a26-c541e97b36b9)
-
-* 点击猫猫即可返回顶部
-![20240425181635](https://github.com/susetao/Better_Alist/assets/109069769/7b006d58-612c-47e4-83d9-7f6c8b6ebf41)
+# 个人博客自用
 
